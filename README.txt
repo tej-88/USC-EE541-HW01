@@ -14,3 +14,6 @@ To run: ipython -c "%run ./bernoulli_trial/bernoulli_trial.ipynb"
 2. Random Variable
 To run: ipython -c "%run ./random_variable/random_variable.ipynb"
 ** By observing the larger realizations of N, we can safely say that the approximate value of E[N] is 8.
+
+3. Secant Method
+To run: ipython -c "%run ./secant_method/secant_method.ipynb"
